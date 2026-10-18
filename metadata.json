@@ -1,0 +1,6 @@
+{
+  "name": "LingoPulse CI - Học Từ Vựng Comprehensible Input & SRS",
+  "description": "Học từ vựng tiếng Anh theo phương pháp Comprehensible Input qua YouTube Shorts: tự động bóc tách phụ đề kèm timestamp, phân tích độ khó CEFR và ôn tập ngắt quãng (SRS).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
